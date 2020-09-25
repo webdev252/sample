@@ -1,0 +1,12 @@
+h1{
+	border-collapse: all;
+	border:solid 5px red;
+	font-style: italic;
+}
+form{
+	color: #ea3266;
+	background: #22332546;
+}
+body{
+	background-image: url("https://scx2.b-cdn.net/gfx/news/2020/smalldogs.jpg ");
+}
